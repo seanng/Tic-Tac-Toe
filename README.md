@@ -1,2 +1,4 @@
 # Tic-Tac-Toe
-50 minutes to make a tic-tac-toe game
+
+1. `npm install`
+2. `npm run start` to begin playing!

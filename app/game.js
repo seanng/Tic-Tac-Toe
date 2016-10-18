@@ -18,6 +18,11 @@ class Game {
   }
 
   turn(player) {
-
   }
 }
+
+let init = () => {
+  console.log('game is still a work in progress... dont expect anything to run :P');
+};
+
+init();
